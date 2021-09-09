@@ -1,4 +1,4 @@
-# COMP-1213 
+
 # COMP-1213 Fundamentals of Computing I
 
 Activities and Projects created for COMP-1213.
